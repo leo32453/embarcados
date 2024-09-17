@@ -1,0 +1,1 @@
+O dispositivo monitora a temperatura de um local com dois sensores DS18B20 conectados à uma ESP32, e manda os dados coletados para outro dispositivo com o protocolo MQTT. Os dados são armazenados e podem então ser monitorados e analisados remotamente. Os dados são armazenados no aplicativo escolhido para receber os dados.
